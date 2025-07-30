@@ -9,7 +9,7 @@
 #define show_tcu_gauges true
 #define MAX_TPS_PPS_DISCREPANCY 10
 
-#define LUA_SCRIPT_SIZE 25000
+#define LUA_SCRIPT_SIZE 20000
 
 #define INJ_PHASE_RPM_COUNT 2
 #define INJ_PHASE_LOAD_COUNT 2
